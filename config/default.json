@@ -1,0 +1,21 @@
+{
+	"files":[
+		{
+			"name" : "sitemap.xml",
+			"fields" :[
+				{
+					"selector" : "#product-name",
+					"name":"Name"
+				},
+				{
+					"selector" : "#originalPrice",
+					"name":"Price"
+				},
+				{
+					"selector" : "#productDescriptionContent span",
+					"name":"Description"
+				}
+			]
+		}
+	]
+}
